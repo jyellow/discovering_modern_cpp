@@ -1,0 +1,7 @@
+/build
+
+# Makefile是在Jupyter脚本中生成的，因此不需要在版本控制中跟踪
+makefile.bak.txt
+c++03/makefile
+c++11/makefile
+c++14/makefile
