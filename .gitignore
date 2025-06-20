@@ -5,3 +5,6 @@ makefile.bak.txt
 c++03/makefile
 c++11/makefile
 c++14/makefile
+
+# 避免上传临时的文本文件
+*.txt
